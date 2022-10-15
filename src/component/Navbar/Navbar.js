@@ -60,7 +60,7 @@ const Navbar = () => {
       "
               href="/#"
             >
-              <h1 className="text-extrabold font-serif text-indigo-500">SIMMI FOUNDATION</h1>
+              <h1 className="text-extrabold font-serif text-xl text-indigo-500">KALLAKENDRA</h1>
             </a>
             <ul className="navbar-nav flex flex-col pl-0 list-style-none mr-auto">
               <li className="nav-item p-2">
